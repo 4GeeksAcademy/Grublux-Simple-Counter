@@ -10,3 +10,7 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+.counterBg {
+    background-color: rgb(47, 47, 47);
+}
